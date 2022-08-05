@@ -18,8 +18,7 @@ For virtualenv:
 	sh start.sh 
 
 4) Please send an email to jmc19@ic.ac.uk, containing the following information:
-	  1	please send us a link of your docker file if you have made any changes (containing SurgT_benchmarking configured to your algorithm);
-	  2     please send us a link of your yml file;
-	  3     please send us a link of your code and graph, and include a run.py file;
-	  4	team members (names + email);
-	  5	info about the datasets that have been used for training.
+	  1	please send us a link of your docker image, with the code and graph (containing SurgT_benchmarking configured to your algorithm);
+	        https://docs.docker.com/engine/reference/commandline/save/ 
+	  2	team members (names + email);
+	  3	info about the datasets that have been used for training.
